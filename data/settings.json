@@ -1,0 +1,33 @@
+{
+  "footerTitle": "真照联盟",
+  "footerSubtitle": "优选服务 诚信至上",
+  "contactTitle": "💁人工客服",
+  "contactBody": "营业时间每天中午12点-凌晨12点",
+  "primaryLabel": "与你APP",
+  "primaryValue": "xxmm67",
+  "secondaryLabel": "遇刻APP",
+  "secondaryValue": "YX888888",
+  "areas": [
+    "和平区",
+    "河西区",
+    "南开区",
+    "河东区",
+    "河北区",
+    "红桥区",
+    "滨海新区",
+    "西青区",
+    "武清区",
+    "北辰区",
+    "宝坻区",
+    "津南区",
+    "东丽区",
+    "蓟县",
+    "静海区",
+    "大港"
+  ],
+  "adminPasswordHash": "scrypt:0b4a5ad2f3d4868cffeeb06d37541716:e4e8f8c19f0c820b7613232ac7ddd9df9fa215927193f0335be966f5c828a56134b25ad8deb2f75d9ccd1559b04d1174dce0a650087f6aba78e368cf05d742b1",
+  "adminPasswordUpdatedAt": "2026-08-07T11:26:15.770Z",
+  "frontendPasswordEnabled": true,
+  "frontendPasswordHash": "scrypt:d12533efcd38b13f40b7c4198ff8b716:2e556a6b41736ebc9a88ee5926cc8e3465ee5cb529f8973c3487b7a003e65895b87ee344cda11d93fd905a9579fa8b2c0bddf8f2d8760f9c88547d56205180a6",
+  "frontendPasswordUpdatedAt": "2026-08-25T03:24:01.875Z"
+}
